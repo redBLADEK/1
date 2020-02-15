@@ -1,1 +1,1 @@
-https://github.com/redBLADEK/1/blob/master/index.md
+https://redBLADEK.github.io/1/index.md
