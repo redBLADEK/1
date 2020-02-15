@@ -1,1 +1,1 @@
-https://github.com/redBLADEK/1/blob/master/index.html
+https://redBLADEK.github.io/rsschool-cv/
