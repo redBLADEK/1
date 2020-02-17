@@ -1,1 +1,1 @@
-https://redBLADEK.github.io/1/index.html
+https://redBLADEK.github.io/
